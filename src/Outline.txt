@@ -1,0 +1,10 @@
+TODO:
+    -stalemate logic
+    -javafx graphics
+
+Potential cleanup:
+    -use getColorPieces
+
+Potential optimization:
+    -two arrays ([16] or [2][8]) for pieces
+    -optimize move calculation so that we don't recalculate the same set of moves
