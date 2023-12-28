@@ -3,7 +3,8 @@ My command line based implementation of Chess using Java, made over Christmas '2
 
 To Play:
 
-make build
-make run
+src/make build
+
+src/make run
 
 In the future I plan to clean up implementation and add a GUI using JavaFX or Unity.
